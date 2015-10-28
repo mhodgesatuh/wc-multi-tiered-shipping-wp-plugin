@@ -1,4 +1,5 @@
 === CFD Multitiered Shipping For WooCommerce ===
+
 Contributors: m&mhodges
 Tags: woocommerce, shipping
 Requires at least: 3.0.1
