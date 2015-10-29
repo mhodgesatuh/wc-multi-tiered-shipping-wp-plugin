@@ -23,7 +23,7 @@ And a fifth tier that is additive to the fourth tier, with a per-item flat rate
 for additional items beyond what fits in the fourth tier.
 
 This plugin is most useful to those that use USPS flat rate boxes and ship
-items that are fairly inform in size such that the number of items per box can
+items that are fairly uniform in size such that the number of items per box can
 be estimated up front.  Clothing resellers, for example, may find this plugin
 useful.
 
