@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This WordPress plugin adds multi-tiered flat rate shipping option for the 
+This WordPress plugin adds a multi-tiered flat rate shipping option for the 
 WooCommerce plugin.
 
 == Description ==
